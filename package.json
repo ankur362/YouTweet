@@ -1,7 +1,7 @@
 {
-    "name": "coffee-backend",
+    "name": "backend",
     "version": "1.0.0",
-    "description": "backend with coffee",
+    "description": "backend ,
     "main": "index.js",
     "type": "module",
     "engines": {
@@ -16,7 +16,7 @@
         "backend",
         "coffee"
     ],
-    "author": "Hruthik",
+    "author": "Ankur",
     "license": "ISC",
     "devDependencies": {
         "nodemon": "^3.0.1",
